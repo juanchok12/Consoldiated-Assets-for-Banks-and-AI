@@ -25,7 +25,7 @@ from langchain_mistralai import ChatMistralAI #To use the ChatMistralAI which is
 dotenv_path = find_dotenv()
 load_dotenv(dotenv_path)
 # Retrieve the MistralAI API key from environment variables
-MISTRALAI_API_KEY = os.getenv("MISTRALAI_API_KEY")
+MISTRALAI_API_KEY = os.getenv("mistral_api_key")
 
 #Convert the 'concatenated_df.csv' file into a dataframe
 dir = os.getenv("dir")
