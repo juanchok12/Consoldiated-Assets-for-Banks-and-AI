@@ -1,0 +1,16 @@
+dash==2.17.1
+pandas==2.1.0
+plotly==5.9.0
+langchain==0.2.13
+langchain-core>=0.2.38,<0.3.0
+python-dotenv==1.0.0
+boto3==1.35.18
+flask==3.0.3
+gunicorn
+crewai==0.55.2
+crewai-tools==0.12.0
+openai==1.46.0
+langchain-openai==0.1.25
+pydantic==2.9.1
+requests==2.32.3
+gevent>=1.4
