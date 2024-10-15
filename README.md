@@ -49,6 +49,8 @@ One of the key features of this application is the integration of an **AI Agent*
 
 Users simply enter a prompt, and the AI agent creates a chart and provides the corresponding Python code that was used to generate it. This allows users to modify or reuse the code as needed.
 
+
+
 ## AI Agentic System for News Analysis
 The **AI Agentic System** within the app is designed to deliver insightful financial news and analysis for the selected banks. This system includes two main roles:
 
