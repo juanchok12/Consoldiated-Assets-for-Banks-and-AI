@@ -31,4 +31,50 @@ The data pipeline was originally constructed to feed the "Consolidated Assets" t
 
 ![pipeline](https://github.com/user-attachments/assets/c30d0abc-8ef6-4458-ad1f-26767c194186)
 
+## Table & Filtering
+The **AI Banking Assets** application provides a highly interactive tabular view of the data that can be filtered based on various parameters. Users can filter the table by:
 
+- **Quarter:** A dropdown menu allows users to select the quarter they wish to view, dynamically updating the table to display only data for the chosen period.
+- **Bank Name:** A text input box where users can enter part or all of a bank’s name to filter results, making it easy to locate specific banks.
+- **Consolidated Assets:** A slide bar allows users to filter the table based on the range of consolidated assets. This feature is helpful for focusing on banks within specific asset ranges.
+
+In addition, the app includes a **Download CSV** button that enables users to export the filtered table data to a CSV file, making it easy to download and analyze the data locally.
+
+## AI Agent for Data Visualization
+One of the key features of this application is the integration of an **AI Agent** that automates the process of data visualization. The AI agent:
+
+- Uses **OpenAI’s GPT-4** model, one of the most reliable language models, for prompt engineering.
+- Ensures standardized outputs despite LLM variability, by using prompt engineering techniques that minimize output variation in the data visualizations.
+- Automatically generates interactive **Plotly** visualizations based on the selected bank and financial metrics (such as consolidated assets).
+
+Users simply enter a prompt, and the AI agent creates a chart and provides the corresponding Python code that was used to generate it. This allows users to modify or reuse the code as needed.
+
+## AI Agentic System for News Analysis
+The **AI Agentic System** within the app is designed to deliver insightful financial news and analysis for the selected banks. This system includes two main roles:
+
+1. **Senior Research Analyst:**
+   - **Goal:** Uncover the latest trends and news about the selected banks.
+   - **Backstory:** With years of experience at a leading banking think tank, the analyst specializes in analyzing complex data and delivering actionable insights.
+
+2. **Banking Content Strategist:**
+   - **Goal:** Create compelling content from the analyst's findings, summarizing complex banking data into easy-to-understand reports.
+   - **Backstory:** A highly renowned content strategist, this role focuses on converting detailed financial analyses into engaging and reader-friendly reports.
+
+The AI Agentic System generates comprehensive reports like the following:
+
+### JPMorgan Chase & Co. Analysis and Insights  
+**Key Takeaways:**
+- Reported a decrease in net income for Q3 2024 to $12.9 billion, down from $13.2 billion in Q3 2023.
+- Earnings per share (EPS) increased from $4.33 to $4.37.
+- Increased credit costs are impacting the bank’s performance.
+- JPMorgan’s stock is expected to reach new highs in 2024, reflecting optimism in its strategic direction.
+
+**Full Analysis:**
+In the third quarter of 2024, JPMorgan Chase & Co. showcased a mixed yet promising financial performance. Although the bank reported a slight dip in net income, it demonstrated resilience with an increase in EPS, suggesting efficiency improvements. As JPMorgan navigates the rising credit costs, it continues to strategically invest in long-term growth, positioning itself for a potential rise in stock value throughout 2024. Analysts remain optimistic about the bank's future performance based on its better-than-expected results.
+
+---
+
+Sources:
+- [Market Screener](https://www.marketscreener.com/quote/stock/JPMORGAN-CHASE-CO-37468997/news/JPMorgan-Chase-JPMC-Co-Form-8-K-3Q2024-earning-release-11-October-2024-48058728/)
+- [Yahoo Finance](https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-q3-070028462.html)
+- [Nasdaq](https://www.nasdaq.com/articles/jpmorgan-can-hit-new-highs-year-heres-why)
