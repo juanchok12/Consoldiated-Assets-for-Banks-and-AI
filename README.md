@@ -43,7 +43,7 @@ In addition, the app includes a **Download CSV** button that enables users to ex
 ## AI Agent for Data Visualization
 One of the key features of this application is the integration of an **AI Agent** that automates the process of data visualization. The AI agent:
 
-- Uses **OpenAI’s GPT-4** model, one of the most reliable language models, for prompt engineering.
+- Uses **OpenAI’s GPT-4o** Large Language Model (LLM), one of the most reliable language models, for prompt engineering.
 - Ensures standardized outputs despite LLM variability, by using prompt engineering techniques that minimize output variation in the data visualizations.
 - Automatically generates interactive **Plotly** visualizations based on the selected bank and financial metrics (such as consolidated assets).
 
