@@ -49,6 +49,7 @@ One of the key features of this application is the integration of an **AI Agent*
 
 Users simply enter a prompt, and the AI agent creates a chart and provides the corresponding Python code that was used to generate it. This allows users to modify or reuse the code as needed.
 
+![Data viz](https://github.com/user-attachments/assets/00311e36-b851-4090-b4c3-332a2687fab9)
 
 
 ## AI Agentic System for News Analysis
