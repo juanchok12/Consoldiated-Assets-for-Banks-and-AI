@@ -63,21 +63,6 @@ The **AI Agentic System** within the app is designed to deliver insightful finan
    - **Goal:** Create compelling content from the analyst's findings, summarizing complex banking data into easy-to-understand reports.
    - **Backstory:** A highly renowned content strategist, this role focuses on converting detailed financial analyses into engaging and reader-friendly reports.
 
-The AI Agentic System generates comprehensive reports like the following:
+The AI Agentic System generates comprehensive reports that generates a key take-aways section, the main analysis body, and gives the user the link sources the agentic system use to generate the analysis:
 
-### JPMorgan Chase & Co. Analysis and Insights  
-**Key Takeaways:**
-- Reported a decrease in net income for Q3 2024 to $12.9 billion, down from $13.2 billion in Q3 2023.
-- Earnings per share (EPS) increased from $4.33 to $4.37.
-- Increased credit costs are impacting the bank’s performance.
-- JPMorgan’s stock is expected to reach new highs in 2024, reflecting optimism in its strategic direction.
-
-**Full Analysis:**
-In the third quarter of 2024, JPMorgan Chase & Co. showcased a mixed yet promising financial performance. Although the bank reported a slight dip in net income, it demonstrated resilience with an increase in EPS, suggesting efficiency improvements. As JPMorgan navigates the rising credit costs, it continues to strategically invest in long-term growth, positioning itself for a potential rise in stock value throughout 2024. Analysts remain optimistic about the bank's future performance based on its better-than-expected results.
-
----
-
-Sources:
-- [Market Screener](https://www.marketscreener.com/quote/stock/JPMORGAN-CHASE-CO-37468997/news/JPMorgan-Chase-JPMC-Co-Form-8-K-3Q2024-earning-release-11-October-2024-48058728/)
-- [Yahoo Finance](https://finance.yahoo.com/news/jpmorgan-chase-co-jpm-q3-070028462.html)
-- [Nasdaq](https://www.nasdaq.com/articles/jpmorgan-can-hit-new-highs-year-heres-why)
+![analysis](https://github.com/user-attachments/assets/fc075595-5dab-4fc3-993f-f2275a9137f5)
